@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549383436414",
+    "project_id": "valorant-fantasy-draft",
+    "storage_bucket": "valorant-fantasy-draft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549383436414:android:acb4c5d786487c683ec02f",
+        "android_client_info": {
+          "package_name": "com.example.valorant_fantasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylekYIsk91vm3C1R7a389bxhlrlDKCDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
